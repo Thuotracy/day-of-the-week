@@ -19,3 +19,8 @@
     align-items: center;
    border: 5px solid black;
 }
+
+#output{
+    font-size: 50px;
+    text-align: center;
+}
