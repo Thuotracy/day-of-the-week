@@ -1,12 +1,12 @@
 html{
-    background-color: blue;
+    background-color: black;
     height: 100%;
 }
 
 #container{
     height: 200px;
     width: 550px;
-    background-color: white;
+    background-color: cornsilk;
     display: flex;
     margin: 0 auto;
     flex-direction: column;
