@@ -1,3 +1,16 @@
 html{
     background-color: blue;
+    height: 100%;
+}
+
+#container{
+    height: 200px;
+    width: 550px;
+    background-color: white;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   border: 5px solid black;
 }
