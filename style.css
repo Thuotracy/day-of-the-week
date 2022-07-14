@@ -1,7 +1,12 @@
-html{
-    background-color: black;
-    height: 100%;
-}
+ body{
+    background-image: url("background.jpg");
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+ }
+
 
 #container{
     height: 200px;
